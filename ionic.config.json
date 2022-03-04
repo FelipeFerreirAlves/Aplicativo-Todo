@@ -1,0 +1,7 @@
+{
+  "name": "ToDo capacitação",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
